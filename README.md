@@ -1,5 +1,8 @@
 # Simulation-of-very-cheap-taxi-services
 
+1, JAVA SimulatorOne.java # to run the code
+
+
 I utilized java to develop a simulation for Qnq’s cheap taxi service, using directed graphs and dijkstra’s
 algorithm. Java’s object-oriented features enabled me to model the routes and taxi service components
 effectively. The use of Dijkstra’s algorithm enabled me to determine the shortest paths and find the
